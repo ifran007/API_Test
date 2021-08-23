@@ -1,0 +1,6 @@
+--exit
+--bail
+--recursive
+--slow 1000
+--file ./test/test.js
+--reporter allure-mocha
